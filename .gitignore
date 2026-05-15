@@ -1,6 +1,6 @@
 # Dependencies
-git rm -r --cached client/node_modules
-git rm -r --cached backend/node_modules
+client/node_modules
+backend/node_modules
 
 # Build folders
 .next/
